@@ -16,6 +16,7 @@ for a in soup.select('table[id="tblOutletSearchResult"] li'):
     a= a.getText().replace(u'\xa0', u'').replace('  ',' ').split('\n')
     location = a[1].strip()
     address= a[2].strip()
+    postal = re.search('Singapore\s\d+', address).group()
     cur.execute("INSERT OR IGNORE INTO placeall(location,address) VALUES(?,?)",(location,address,))
 
 conn.commit()
