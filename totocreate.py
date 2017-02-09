@@ -30,6 +30,13 @@ CREATE TABLE place (
     address         TEXT,
     quickpick       TEXT,
     system          TEXT
+);
+
+CREATE TABLE placeall (
+    location        TEXT,
+    address         TEXT,
+    latitude        FLOAT,
+    longitude       FLOAT
 )
 ''')
 
