@@ -37,6 +37,7 @@ CREATE TABLE placeall (
     address         TEXT,
     latitude        FLOAT,
     longitude       FLOAT
+    scanned         INTEGER DEFAULT 0
 )
 ''')
 
