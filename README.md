@@ -8,3 +8,5 @@ A mini-project to analyse 3 years of TOTO Group 1 data.
    * __totogeocode.py__: geocode addresses into latitude and longitude using Google Maps API
 
 See more in my blog post at https://mapattack.wordpress.com/2017/02/09/toto/
+
+![Alt text](https://github.com/mapattacker/toto/blob/master/how-to-win-a-toto-jackpot.jpg)
