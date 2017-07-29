@@ -9,7 +9,6 @@ A mini-project to analyse 3 years of TOTO Group 1 data.
 
 See more in my blog post at https://mapattack.wordpress.com/2017/02/09/toto/
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+The eventual dashboard resulting from this project:
 
 ![Alt text](https://github.com/mapattacker/toto/blob/master/how-to-win-a-toto-jackpot.jpg)
