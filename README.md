@@ -11,4 +11,4 @@ See more in my blog post at https://mapattack.wordpress.com/2017/02/09/toto/
 
 The eventual dashboard resulting from this project:
 
-![Alt text](https://github.com/mapattacker/toto/blob/master/how-to-win-a-toto-jackpot.jpg)
+![Alt text](https://github.com/mapattacker/toto/blob/master/how-to-win-a-toto-jackpot.jpg =x200.png)
